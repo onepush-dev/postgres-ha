@@ -1,6 +1,6 @@
 # Postgres HA — 3-node Patroni cluster with HAProxy on Railway. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/PLACEHOLDER)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/sLEBka)
 
 A production-style **PostgreSQL 18** high-availability cluster on Railway: three Patroni nodes (each with a colocated etcd member) and an HAProxy router that always points clients at the current primary. Automatic failover, streaming replication, TLS on every node, and connection URLs ready for your app.
 
